@@ -25,7 +25,7 @@ A simple rule-based chatbot built with spaCy, capable of recognizing user intent
 
 in bash
 <hr>
-pip install spacy
+pip install spacy<br>
 python -m spacy download en_core_web_sm
 <hr>
 <h2>Possible Enhancements</h2>
