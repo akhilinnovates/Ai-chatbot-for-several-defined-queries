@@ -1,0 +1,13 @@
+#some of the sample interactions
+
+You: Hello
+Bot: Hi there!
+
+You: What's the time?
+Bot: The current time is 22:34
+
+You: Tell me the date
+Bot: Today's date is 2025-06-29
+
+You: Bye
+Bot: Goodbye!
